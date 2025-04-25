@@ -1,6 +1,7 @@
 # 光谱-图像恒星分类 (Spectrum-Image Star Classification)
 
-本项目旨在利用深度多模态网络，通过结合恒星的光谱数据和测光图像数据，对 M 型恒星进行分类。
+本项目旨在进行论文项目复现，利用深度多模态网络，通过结合恒星的光谱数据和测光图像数据，对 M 型恒星进行分类。
+复现参照仓库：https://github.com/Gajiln/Spectrum-Image-Star-Classification
 
 ## 项目结构
 
